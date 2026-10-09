@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "speculators",
+  "versions": [
+    {
+      "commit": "dd6d7f93fd08d7b456f3b6313feb02fc4dd08d38",
+      "tag": "main",
+      "parsed_at": "2026-10-09T10:11:18.519251+00:00"
+    }
+  ]
+}
