@@ -1,0 +1,7 @@
+[2026-10-09T10:08:13Z] === AST ITERATION 1 START | repo=NousResearch/speculators sha=dd6d7f93 ===
+[2026-10-09T10:08:13Z] [iter=1] PHASE START: ast repo=NousResearch/speculators sha=dd6d7f93
+[2026-10-09T10:08:13Z] [iter=1] Building AST aggregate chunks
+[2026-10-09T10:09:19Z] [iter=1] AST chunks built count=1 triples=1101430
+[2026-10-09T10:09:19Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/dd6d7f93fd08d7b456f3b6313feb02fc4dd08d38/.complete
+[2026-10-09T10:09:19Z] [iter=1] PHASE END: ast elapsed_s=66 elapsed_min=1.1
+[2026-10-09T10:09:19Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
